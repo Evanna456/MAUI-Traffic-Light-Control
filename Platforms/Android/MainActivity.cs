@@ -1,6 +1,4 @@
 ﻿using Android.App;
-using Android.Bluetooth;
-using Android.Content;
 using Android.Content.PM;
 using Android.OS;
 
@@ -14,18 +12,8 @@ public class MainActivity : MauiAppCompatActivity
         base.OnCreate(savedInstanceState);
         Platform.Init(this, savedInstanceState);
     }
-
     public override void OnRequestPermissionsResult(int requestCode, string[] permissions, Permission[] grantResults)
     {
         Platform.OnRequestPermissionsResult(requestCode, permissions, grantResults);
-
-        base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
-    }
-
-    public BluetoothManager BluetoothM()
-    {
-        BluetoothManager _manager;
-        _manager = (BluetoothManager)Android.App.Application.Context.GetSystemService(Android.Content.Context.BluetoothService);
-        return _manager;
     }
 }

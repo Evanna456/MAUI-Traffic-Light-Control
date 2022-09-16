@@ -253,3 +253,5 @@ D:\My Documents\Workshop\MAUI\MAUI-Traffic-Light-Control\obj\Debug\net6.0-maccat
 D:\My Documents\Workshop\MAUI\MAUI-Traffic-Light-Control\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\MAUI-Traffic-Light-Control.pdb
 D:\My Documents\Workshop\MAUI\MAUI-Traffic-Light-Control\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\MAUI-Traffic-Light-Control.genruntimeconfig.cache
 D:\My Documents\Workshop\MAUI\MAUI-Traffic-Light-Control\obj\Debug\net6.0-maccatalyst\maccatalyst-x64\ref\MAUI-Traffic-Light-Control.dll
+D:\My Documents\Workshop\MAUI\MAUI-Traffic-Light-Control\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\System.IO.Ports.dll
+D:\My Documents\Workshop\MAUI\MAUI-Traffic-Light-Control\bin\Debug\net6.0-maccatalyst\maccatalyst-x64\CommunityToolkit.Mvvm.dll

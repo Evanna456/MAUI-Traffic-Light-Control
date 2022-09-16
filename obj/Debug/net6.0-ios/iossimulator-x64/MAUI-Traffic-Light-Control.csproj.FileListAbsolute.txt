@@ -263,3 +263,5 @@ D:\My Documents\Workshop\MAUI\MAUI-Traffic-Light-Control\obj\Debug\net6.0-ios\io
 D:\My Documents\Workshop\MAUI\MAUI-Traffic-Light-Control\obj\Debug\net6.0-ios\iossimulator-x64\MAUI-Traffic-Light-Control.pdb
 D:\My Documents\Workshop\MAUI\MAUI-Traffic-Light-Control\obj\Debug\net6.0-ios\iossimulator-x64\MAUI-Traffic-Light-Control.genruntimeconfig.cache
 D:\My Documents\Workshop\MAUI\MAUI-Traffic-Light-Control\obj\Debug\net6.0-ios\iossimulator-x64\ref\MAUI-Traffic-Light-Control.dll
+D:\My Documents\Workshop\MAUI\MAUI-Traffic-Light-Control\bin\Debug\net6.0-ios\iossimulator-x64\System.IO.Ports.dll
+D:\My Documents\Workshop\MAUI\MAUI-Traffic-Light-Control\bin\Debug\net6.0-ios\iossimulator-x64\CommunityToolkit.Mvvm.dll

@@ -3,19 +3,4 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MAUI_Traffic_Light_Control.MainPage">
 
-    <ScrollView>
-        <VerticalStackLayout
-            Spacing="25"
-            Padding="30,0"
-            VerticalOptions="Center">
-
-            <Button
-                x:Name="TurnOnBtn"
-                Text="Turn On"
-                Clicked="turnOnTrafficLight"
-                HorizontalOptions="Center" />
-
-        </VerticalStackLayout>
-    </ScrollView>
-
 </ContentPage>
