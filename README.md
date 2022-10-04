@@ -6,8 +6,17 @@ A mobile app that can control [Arduino-Traffic-Light](https://github.com/Evanna4
 
 ## Usage
 
-* 1.)Download and Install the APK/IPA.
-* 2.)Run the App.
+-Windows-
+
+* 1.)Download and Install [.NET 6 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0).
+* 2.)Install Certicate.
+* 3.)Enable Apps Sideloading/Install apps from any source.
+* 4.)Install and Run the Application
+
+-Android-
+
+* 1.)Install APK.
+* 2.)Run the Application.
 
 ## About MAUI
 
